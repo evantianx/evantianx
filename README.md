@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**evantianx/evantianx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center" style="font-size: 30px">
+  Hello world, I'm Evan
+</h1>
 
-Here are some ideas to get you started:
+<img src="https://miro.medium.com/max/500/1*ZXQifyIny_o2bFmz1BBz3A.gif" width = "300" height = "300" alt="neow cat" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  I’m currently working on React & TypeScript
+- 🌱  I’m currently learning design
+- 👯  I’m looking to collaborate on coding together
+- 🤔  I’m looking for help with Rust & Haskell develop
+- 💬  Ask me about what you wanna ask
+- 📫  How to reach me: evantianx at gmail dot com
+- 😄  Pronouns: he / him
+- ⚡  Fun fact: I used to be a Structure Engineer
