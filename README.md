@@ -13,3 +13,7 @@
 - 📫  How to reach me: evantianx at gmail dot com
 - 😄  Pronouns: he / him
 - ⚡  Fun fact: I used to be a Structure Engineer
+
+![evantianx's github stats](https://github-readme-stats.vercel.app/api?username=evantianx&hide=stars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evantianx&hide=html)](https://github.com/anuraghazra/github-readme-stats)
