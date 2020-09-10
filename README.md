@@ -3,8 +3,6 @@
   Hello world, I'm Evan
 </h1>
 
-<img src="https://miro.medium.com/max/500/1*ZXQifyIny_o2bFmz1BBz3A.gif" width = "300" height = "300" alt="neow cat" />
-
 - 🔭  I’m currently working on React & TypeScript & GraphQL 
 - 🌱  I’m currently learning design
 - 👯  I’m looking to collaborate on coding together
