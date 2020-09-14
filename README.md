@@ -1,7 +1,5 @@
 
-<h1 align="center" style="font-size: 30px">
-  Hello world, I'm Evan
-</h1>
+![download.png](https://i.loli.net/2020/09/14/ltq9xFHpKYesGwE.png)
 
 - 🔭  I’m currently working on React & TypeScript & GraphQL 
 - 🌱  I’m currently learning design
