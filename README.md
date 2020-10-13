@@ -1,5 +1,8 @@
 
+## click [👉  here 👈](evantian.me) to know me more from my blog ✏️
+
 ![download.png](https://i.loli.net/2020/09/14/ltq9xFHpKYesGwE.png)
+
 
 - 🔭  I’m currently working on React & TypeScript & GraphQL 
 - 🌱  I’m currently learning design
@@ -16,4 +19,8 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
+
+
 ![visitor-badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
