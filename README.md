@@ -1,6 +1,3 @@
-
-## click [👉  here 👈](https://evantian.com/) to know me more from my blog ✏️
-
 ![download.png](https://i.loli.net/2020/09/14/ltq9xFHpKYesGwE.png)
 
 
