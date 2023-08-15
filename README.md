@@ -8,7 +8,7 @@
 - 💬 &nbsp; Ask me about what you wanna ask
 - 📫 &nbsp; How to reach me: evantianx at gmail dot com
 - 😄 &nbsp; Pronouns: he / him
-- ⚡&nbsp; Fun fact: I used to be a Structure Engineer
+- ⚡&nbsp; Fun fact: I used to be a Structural Engineer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evantianx&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
